@@ -1,0 +1,61 @@
+- Primer:
+    - Zenithal infrantry yellow + white
+    - Drybrush with Vallejo Pale Sand
+    - Citadel Seraphim Sepia and repeat drybrush 
+- Main procedure:
+    - Prime
+    - Contrasts
+    - Metal
+    - AK Streaking Grime
+    - Clean grime with white spirits  
+    - Highlights and weathering
+    - Warpglow
+    - Base 
+- Robe:
+    - VA Xpress Color Wasteland Brown
+    - Bunch of glazes of Pale Sand, Citadel Skrag Brown, Wasteland Brown
+    - If borders too visible, smooth with (watered down) Seraphin Sepia
+- Steel armour:
+    - Citadel Black Legion
+    - VA Metal Color Dull Aluminium
+    - Streaking grime
+    - Black Legion in shadows
+    - Watered down Skrag Brown
+    - Less and less watered brown, covering less and less area
+    - Mix with Scalecolor Mars Orange for brighter rust
+    - Do rust streaks
+    - Highlight with Dull Aluminium
+- Copper: 
+    - Same as steel, but:
+        - Base is Vallejo Metal Color Copper 
+        - Glazes of VA flat brown for shadows
+        - Highlight before weathering by mixing in Dull Aluminium with Copper
+        - Instead of rust, do patina with Army Painter Toxic Mist (should be more green)
+- Skin:
+    - AP Speedpaint Crusader Skin
+    - Highlight with Pale Sand 
+- Tail:
+    - Do skin
+    - Pro Acryl Magenta mixed with Citadel Contrast Medium
+    - Highlight after streaking grime with Magenta and Pale Sand
+- Leather:
+    - AP Hardened Leather
+- Wood:
+    - Citadel Wyldwood
+    - Highlight with Pale Sand
+    - Smooth with Wyldwood
+    - Moss and rot with Citadel Ork Skin and Striking Scorpion Green
+- Eyes:
+    - Do skin
+    - Pro Acryl Bold Pyrrole Red
+- Warpglow:
+    - Pale Sand
+    - Pro Acryl Titanium White
+    - Pro Acryl Bright Yellow Green
+    - Do dark-light-dark pattern by mixing in VA Green Fluorescent and Citadel Black Legion
+- Base:
+    - Skrag Brown as base
+    - VA Brown Earth texture
+    - VA Wild Tuft - Dense Beige
+    - Green Stuff Middle Earth pigment over base and lower parts
+    - Rind: VA Black
