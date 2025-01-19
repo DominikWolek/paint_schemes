@@ -1,0 +1,51 @@
+- Primer:
+    - Zenithal prime black (little) + infrantry yellow 
+    - Drybrush with Vallejo Pale Sand
+    - If too pale, wash with Citadel Seraphim Sepia and repeat drybrush 
+- Main procedure:
+    - Prime
+    - Contrasts
+    - Metal
+    - AK Streaking Grime
+    - Clean grime with white spirits
+    - Runes with Pro Acryl Bold Titanium White  
+    - Highlight with VA Pale Sand (with little flow aid)
+    - Base 
+    - Matt Varnish
+    - Highlight metal
+- Main yellow brown (one of):
+    - AP Speedpaint Pallid Bone
+    - VA Xpress Color Wasteland Brown
+    - Citadel Skeleton Horde
+- Main green:
+    - Citadel Streaking Scorpion Green
+    - AP Speedpaint Orc Skin
+    - Citadel Hexwraith Flame (worse version of SSG)
+- Metal:
+    - Citadel Black Legion
+    - VA Metal Color Dull Aluminium
+    - GSW Light Orange Oxide rust pigment after grime
+    - Highlight with Dull Aluminium
+- Skin (one of):
+    - AP Speedpaint Crusader Skin (pale)
+    - Citadel Guillman Flesh (light tan)
+    - Crusader Skin + Hardened Leather (dark tan)
+    - Crusader Skin + Gravelord Grey (darkskin) 
+- Tail:
+    - Do skin
+    - Pro Acryl Magenta mixed with Citadel Contrast Medium
+- Leather (one of):
+    - AP Hardened Leather
+    - Citadel Snakebite Leather
+- Wood (one of):
+    - Citadel Wyldwood
+    - AP Hardened Leather
+- Eyes:
+    - Do skin
+    - Pro Acryl Bold Pyrrole Red
+- Varnish:
+    - TODO
+- Base:
+    - VA Brown Earth texture
+    - VA Wild Tuft - Dense Beige
+    - Rind: VA Black
