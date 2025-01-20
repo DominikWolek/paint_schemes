@@ -1,0 +1,80 @@
+# Dwarfs
+
+## Green Bay Miners
+
+- Primer:
+    - Zenithal prime black + grey + white
+    - Drybrush with Vallejo Pale Sand
+- Main green:
+    - Layer: 2x Scale75 Boreal Green
+    - Highlight: S75 Irati Green
+    - On deathroller:
+        - Layer Boreal Green + drop of Scale75 Inktense Green via airbrush
+        - Same but on top with Irati Green
+        - Wash with Streaking Grime on bottom roller
+- Main yellow:
+    - Layer: VA Yellow Ochre
+    - Wash: Citadel Agrax Earthshade or Reikland Fleshshade (???)
+    - Highlight: VA Pale Sand
+- Main white:
+    - Pro Acryl Bold Titanium White
+- Gems:
+    - Layer: VA Purple
+    - Glaze: VA Warlord Purple
+    - Highlight: VA Squid Pink
+- Skin:
+    - Contrast: AP Crusader Skin
+    - Highlight: VA Pale Sand
+- Hair:
+    - Black:
+        - Layer: VA Black
+        - Highlight: VA Black + PA Bold Titanium White
+    - Brown:
+        - Layer: VA Flat Brown
+        - Wash: Citadel Agrax Earthshade
+        - Highlight: VA Flat Brown + VA Pale Sand
+    - Red:
+        - Layer: S75 Mars Orange
+        - Highlight: S75 Mars Orange + VA Pale Sand
+    - Grey:
+        - Layer: VA Black + VA Pale Grey Blue
+        - Wash: Citadel Drakenof Nightshade
+        - Highlight: VA Black + VA Pale Grey Blue
+- Rubber bands: Warlord Purple
+- Bronze (bust armor, cups, weapons):
+    - Layer: S75 Decayed Metal
+- Gold (coins):
+    - Mix together:
+        - 1 VA Metal Color Gold
+        - 2 VA Metal Color Copper
+        - Green Stuff Pire Metal Pigment Gold
+- Hand with mug:
+    - Green, yellow, white, gem as dwarfs
+    - Skin:
+        - Citadel Guilliman Flesh
+    - Light green:
+        - PA Bright Yellow Green
+- Skulls:
+    - Layer: AP Pallid Bone
+- Base:
+    - Grass:
+        - Layer: VA Flat Brown
+        - Glue AP Battlefield Field Grass on top
+    - Rind: 2x S75 Boreal Green
+- Ball:
+    - Paint green
+        - Drybrush / sponge S75 to highlight top parts of green
+    - Paint yellow
+    - Paint metal
+    - Do base, glue grass, paint rind
+    - Varnish
+    - Highlight metal after varnish
+- Blood:
+    - AP Glistening Blood
+- Transfers:
+    - Citadel Ardcoat Underneath
+    - Apply Transfer
+    - Micrscale Micro Set on transfer
+    - Citadel Stormshield
+- Varnish:
+    - 2x Citadel Technical Stormshield (airbrush)

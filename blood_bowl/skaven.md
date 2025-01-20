@@ -1,0 +1,68 @@
+# Skaven
+
+## Crimson Tails
+
+- Primer:
+    - Zenithal prime black + grey + white
+    - Drybrush with Vallejo Pale Sand
+- Main red:
+    - Army Painter Blood Red
+    - Highlight: VA Flat Red + VA Pale Sand
+- Main black:
+    - Citadel Black Legion
+    - Highlight: VA White + VA Black
+- Metal:
+    - Do black
+    - Drybrush: Scale75 Decayed Metal
+    - Highlight: VA Metal Color Copper
+- Skin:
+    - 1 AP Crusader Skin + 2 AP Gravelord Grey
+    - Highlight: VA Pale Sand
+- Tail:
+    - Some mixture of AP Crusader Skin, Citadel Flesh Tearers and AP Pallid Bone
+    - Highlight: VA Squid Pink
+- Leather (bags, poaches):
+    - AP Hardened Leather
+- Balls (thrower):
+    - AP Gravelord Grey
+    - VA Metal Color Copper on sides
+    - VA Green Fluorescent on veins
+- Eyes:
+    - VA Green Fluorescent
+- Transfers:
+    - Citadel Ardcoat Underneath
+    - Apply Transfer
+    - Micrscale Micro Set on transfer
+    - Citadel Stormshield
+- Coins:
+    - TODO
+- Token:
+    - TODO
+- Varnish:
+    - On metal: Citadel Ardcoat 2x
+    - On rest: Citadel Stormshield 2x
+- Base:
+    - Grass:
+        - Layer: VA Flat Brown
+        - Glue AP Battlefield Field Grass on top
+    - Rind: VA Flat Red
+- Ball:
+    - Paint zenithal:
+        - Black primer (brush in that case)
+        - Layer grey on the top parts
+        - Drybrush heavily with VA Pale Sand
+        - Drybrush top parts with ProAcryl Bold Titanium White
+    - Paint top of base like above
+    - Paint middle with mix of Contrast Black Legion & Speedpaint Gravelord Grey
+    - Paint metal parts with Scale75 Decayed Metal
+    - Paint plastic grass:
+        - Base VA Refractive Green
+        - Glaze S75 Boreal Green
+        - Layer top with S75 Irati Green
+        - Highlight with VA Lemon Green
+    - Warpflame: 2x Citadel Technical Tesseract Green
+    - Vallejo Environment - Streaking Grime on ball (not on flame, not on hill / grass)
+    - Repint black if too much was wiped
+    - Glue grass, paint rind
+    - Matt varnish
+    - Highlight metal with VA Metal Color Copper

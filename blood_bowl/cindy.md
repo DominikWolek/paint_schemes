@@ -1,0 +1,35 @@
+# Cindy Piewhistle
+
+- Primer:
+    - Zenithal prime black + grey + white
+    - Drybrush with Vallejo Pale Sand
+- Face:
+    - Start with VA Ochre
+    - Highlight with VA Pale Sand
+    - Shadows with Citadel Guilliman Flesh
+    - VA Off-white into eyes’ whites
+    - Pro-Acryl Blue as eyes
+- Orange:
+    - VA Clear Orange
+- Blue:
+    - ProAcryl Blue
+- Metal:
+    - Vallejo Metal Color Dull Alluminium
+- Pies:
+    - Mixtures and highlights basing on
+        - VA Flat Brown
+        - ProAcryl Warm Brown
+        - ProAcryl Mahogany
+        - Citadel Agrax Earthshade
+- Leather:
+    - Citadel Snakebite Leather
+- White:
+    - Vallejo Off-white + black ink
+    - Do darker mixture of above in shadows
+    - Highlight with ProAcryl Cold Titanium White
+- Rind:
+    - Vallejo Clear Orange
+- Base:
+    - VA Flat Brown + Grass
+- Varnish:
+    - Citadel Stormshield
