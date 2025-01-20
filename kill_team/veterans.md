@@ -1,0 +1,53 @@
+# Veteran Guardsman
+
+- Primers:
+    - AP Matt Black
+    - Citadel Mechanicum Grey zenithal
+    - Citadel White Scar zenithal (more on the front)
+- Drybrush VA Pale Grey Blue on the gun, bayonetta and backpack
+- Uniform:
+    - Layer: Citadel Thunderhawk Blue
+    - Layer (darker parts like pants): VA Field Blue
+    - Wash: Citadel Drakenof Nightshade
+    - Some highlights with drybrushed Thunderhawk Blue
+- Metal on gloves:
+    - As above
+    - VA Gunmetal
+    - AP Gravelord Grey
+- Helmet:
+    - Like Uniform
+    - Drybrush VA Gunmetal
+    - VA Dull Alluminium
+    - Citedel Drakenof Nightshade
+    - Highlight with VA Dull Alluminium
+- Armor on arms:
+    - Like darker parts of uniform
+    - Drybrush VA Gunmetal
+- Mask:
+    - AP Pallid Bone x2
+    - Citadel Aggrax Earthshade on eyes and tube’s ends
+- Gun
+    - Wood:
+        - AP Hardened Leather
+        - AP Hardened Leather, but more on the bottom (scrape off top with water and dry brush)
+    - Tube:
+        - 2x Gravelord Grey
+    - Skull:
+        - VA Dull Aluminium
+        - AP Gravelord Grey
+    - Barrel:
+        - As above
+        - AP Blood Red, more on the bottom
+- Backpack:
+    - VA Wasteland Brown
+    - Citadel Agrax wash on the lower parts
+    - Gravelord grey over it on the blanket on top
+    - Just AP Gravelord Grey on the container in the bottom
+    - Metal details: VA Dull Alluminium
+- Bayonetta:
+    - Drybrush VA Gunmetal
+    - VA Dull Alluminium
+- Base:
+    - Layer: thin  VA Yellow Ochre + little bit of Citadel Thunderhawk Blue
+    - Drybrush VA Buff, then VA Pale Sand - **all over lower parts of the model, little bit on the face**
+    - 3x thin Thunderhawk Blue on the side

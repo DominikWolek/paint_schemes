@@ -1,0 +1,38 @@
+# Hand of The Archon
+
+- Primer:
+    - Black
+- Armor:
+    - Sponge main color
+    - Keep layering while sponging, adding more and more white (Pro Acryl Bold Titanium White)
+    - Do Vallejo Environment - Streaking Grime
+    - Black Oil Wash
+    - Wipe excess with white spirits
+    - Drybrush main color again
+    - Main Colors:
+        - PA Bold Pyrrole Red
+        - PA Burnt Red
+        - PA Purple
+        - PA Sky Blue
+        - PA Blue
+        - PA Green
+        - PA Golden Yellow
+        - PA Dark Jade
+        - PA Bright Yellow Green
+        - Scale75 Mars Orange
+- Metal:
+    - 
+    - Highlight: VA Metal Color Dull Alluminum
+    - Army Painter Blood Red on Grenades
+- Skin:
+    - VA Pale Sand
+    - 1 AP Crusader Skin
+    - Highlight: VA Pale Sand
+- Leather (bags, poaches):
+    - VA Pale Sand
+    - AP Hardened Leather
+- Base:
+    - Sand
+        - Layer: VA Black
+        - Pigments (some on legs) 
+    - Rind: VA Black

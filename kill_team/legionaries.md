@@ -1,0 +1,39 @@
+# Chaos Space Marine Legionaries
+
+- Primers:
+    - AP Matt Black
+    - Citadel Mechanicum Grey zenithal
+    - Citadel White Scar zenithal (more on the front)
+- Armor:
+    - Layer: AP Blood Red
+    - Gold parts: VA Gold
+- Blue materials:
+    - Layer: VA Flat Blue
+    - Layering:
+        - Blue + VA White
+        - Blue + VA Flat Brown
+- Skin
+    - Thin Layer or VA Pale Sand
+    - AP Crusader Skin
+    - Wash: Citadel Agrax Earthshade
+- Details:
+    - Eyes: VA Flat Red
+    - Skulls: AP Crusader Skin over primer or VA Pale sand
+    - Book: same as skin + black writing
+    - Chainmail and shiny metal elements: VA Dull Alluminium (Airbrush)
+    - Fire: AP shamrock green
+    - Plasma: 3x Citadel Contrast Pylar Glacier over white
+    - Salamander head: Citadel Contrast Hexwraith flame
+- Demon parts (hand and tongue and spikes):
+    - Pink (Flat Red + White)
+    - Layering with Pink + White or Brown
+    - Wash: Citadel Agrax Earthshade
+- Weapons:
+    - Dark metal: VA Black + VA Gunmetal
+    - Bright metal: VA Dull Aluminium
+    - Gold: VA Gold
+    - Bands (on axe or mace): thin VA Pale Sand + AP Pallid Bone
+    - Red (flamer and heavy boldgun): AP Blood Red over dark metal
+- Base:
+    - Layer: VA Black
+    - 3x thin VA Flat Red on the side
