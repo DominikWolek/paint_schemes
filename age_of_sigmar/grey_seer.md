@@ -1,0 +1,67 @@
+# Grey Seer
+
+- Primer:
+    - Zenithal infrantry yellow + white
+    - Drybrush with Vallejo Pale Sand
+    - Citadel Seraphim Sepia and repeat drybrush 
+- Main procedure:
+    - Prime
+    - Contrasts
+    - Metal
+    - AK Streaking Grime
+    - Clean grime with white spirits  
+    - Highlights and weathering
+    - Warpglow
+    - Base 
+- Robe:
+    - Citadel Striking Scorpion Green
+    - Bunch of highlights with Pro Acryl Bright Yellow Green, more and more VA Pale Sand added
+- Steel armour:
+    - Citadel Black Legion
+    - VA Metal Color Dull Aluminium
+    - Streaking grime
+    - Black Legion in shadows
+    - Watered down Skrag Brown
+    - Less and less watered brown, covering less and less area
+    - Mix with Scalecolor Mars Orange for brighter rust
+    - Do rust streaks
+    - Highlight with Dull Aluminium
+- Copper: 
+    - Same as steel, but:
+        - Base is Vallejo Metal Color Copper 
+        - Glazes of VA flat brown for shadows
+        - Highlight before weathering by mixing in Dull Aluminium with Copper
+        - Instead of rust, do patina with Army Painter Toxic Mist (should be more green)
+- Skin:
+    - AP Speedpaint Crusader Skin
+    - Wash with Citadel Drakenhof Nightshade (after grime) - mistake, don't repeat
+    - Highlight with Pale Sand 
+- Horns:
+    - AP Speedpaint Crusader Skin
+    - Filter with Citadel Seraphon Sepia (after grime)
+    - Highlight with Pale Sand 
+- Tail, nose, ears:
+    - Do skin
+    - Pro Acryl Magenta mixed with Citadel Contrast Medium
+    - Highlight after streaking grime with Magenta and Pale Sand
+    - Smooth down with Citadel Flesh Tearers Red - probably not worth it
+    - Repeat highlights
+- Leather:
+    - AP Hardened Leather
+- Wood:
+    - Citadel Wyldwood
+    - Edge highlights with Pale Sand
+- Eyes:
+    - Do skin
+    - Pro Acryl Bold Pyrrole Red
+- Warpglow (runes):
+    - Pale Sand
+    - Pro Acryl Titanium White
+    - Pro Acryl Bright Yellow Green
+    - Do dark-light-dark pattern by mixing in VA Green Fluorescent and Citadel Black Legion
+- Ropes and sheets in book:
+    - AP Pallid Bone
+- Base:
+    - Skrag Brown as base
+    - Green Stuff Middle Earth pigment over base and lower parts
+    - Rind: VA Black
