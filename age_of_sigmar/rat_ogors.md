@@ -1,0 +1,63 @@
+# Rat Ogors
+
+- Primer:
+    - Zenithal infrantry yellow + white
+    - Drybrush with Vallejo Pale Sand
+    - Citadel Seraphim Sepia and repeat drybrush 
+- Main procedure:
+    - Prime
+    - Contrasts
+    - Metal
+    - AK Streaking Grime
+    - Clean grime with white spirits  
+    - Highlights, additional shadows and weathering
+    - Warpglow
+    - Base 
+- Robe:
+    - Citadel Striking Scorpion Green
+    - Highlight with Pro Acryl Bright Yellow Green
+- Steel armour:
+    - Citadel Black Legion
+    - VA Metal Color Dull Aluminium
+    - Streaking grime
+    - Black Legion in shadows
+    - Watered down Skrag Brown
+    - Less and less watered brown, covering less and less area
+    - Mix with Scalecolor Mars Orange for brighter rust
+    - Highlight with Dull Aluminium
+- Copper: 
+    - Same as steel, but:
+        - Base is Vallejo Metal Color Copper 
+        - Glazes of VA flat brown for shadows
+        - Highlight before weathering by mixing in Dull Aluminium with Copper
+- Skin:
+    - One of:
+        - AP Speedpaint Crusader Skin 
+        - Citadel Guillman Flesh 
+        - AP Speedpaint Hardened Leather
+    - Highlight with Pale Sand 
+- Tail, nose, ears, wounds:
+    - Do skin
+    - Pro Acryl Magenta mixed with Citadel Contrast Medium
+    - Shadow with Citadel Flesh Tearers Red after streaking grime 
+    - Layer highlights with Magenta and Pale Sand
+- Leather:
+    - AP Hardened Leather
+- Wood:
+    - Citadel Wyldwood
+    - Edge highlights with Pale Sand
+- Eyes:
+    - Do skin
+    - Pro Acryl Bold Pyrrole Red
+- Warpglow (runes in skin, pipes):
+    - Pale Sand
+    - Pro Acryl Bright Yellow Green
+    - VA Green Fluorescent
+- Ropes and sheets in book:
+    - AP Pallid Bone
+- Base:
+    - Put some coconut fiber as piles of dirt
+    - Glue additional skulls
+    - Skrag Brown as base
+    - Green Stuff Middle Earth pigment over base and lower parts of model
+    - Rind: VA Black

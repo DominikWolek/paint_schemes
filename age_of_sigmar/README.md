@@ -5,3 +5,4 @@
 - [Clanrats](./clanrats.md)
 - [Warlock Engineer](./warlock_engineer.md)
 - [Grey Seer](./grey_seer.md)
+- [Rat Ogors](./rat_ogors.md)
